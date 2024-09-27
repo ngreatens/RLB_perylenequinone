@@ -15,4 +15,5 @@ submitted to PLOSOne.
 
 ### Contains
 * R code and files for generating figure 2
-* Scripts and files for generating dataframe used to graph genes in Figure 2A
+* Scripts and files for generating dataframe used to graph genes in Figure 2A.
+* Also required are genome fastas and gffs for all organisms. Most can be downloaded from NCBI, as per the table in Make_gggenes_df. For others, for which genes were predicted with braker, gffs are available in the gffs folder of this repo
