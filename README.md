@@ -10,5 +10,5 @@ Nicholas Greatens, Harun M. Murithi, Danny Coyne, Steven J. Clough,
 Michael Sulyok, Wahab Oluwanisola Okunowo, Hamed K. Abbas, W. Thomas Shier, and
 Rachel A. Koch Bach
 
-submitted to PLOSOne
+submitted to PLOSOne. 
 ```
