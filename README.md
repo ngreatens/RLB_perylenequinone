@@ -1,4 +1,4 @@
-# Github repository for figure code and files used for figures within 
+## Github repo for figure code and files used for figures within 
 
 ```
 Presence of a gene cluster for a light-activated phytotoxin in the fungal
