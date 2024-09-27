@@ -12,3 +12,7 @@ Rachel A. Koch Bach
 
 submitted to PLOSOne. 
 ```
+
+### Contains
+* R code and files for generating figure 2
+* Scripts and files for generating dataframe used to graph genes in Figure 2A
