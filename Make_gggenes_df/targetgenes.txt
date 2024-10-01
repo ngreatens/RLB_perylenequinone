@@ -1,0 +1,13 @@
+Phaeosphaeriaceae_sp_PMI808	KAH8730335.1
+Parastagonospora_nodorum_SN15	XP_001798923.1
+Paraphoma_chrysanthemicola	KAH7084749.1
+Melanomma_pulvis-pyrius_CBS_10977	KAF2795492.1
+Corynespora_cassiicola	g11066.t1
+Bathelium_mastoideum	KAI9668116.1
+Viridothelium_virens	KAF2230550.1
+Elsinoe_ampelina	g2499.t1
+Cercospora_beticola_01	XP_023460065.1
+Cercospora_beticola_02	XP_023450000.1
+Shiraia_sp_slf14	g9112.t1
+Fulvia_fulva	XP_047765204.1
+Colletotrichum_fioriniae	XP_065613940.1

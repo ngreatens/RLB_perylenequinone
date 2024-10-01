@@ -1,0 +1,16 @@
+﻿ID,Function,Annotation source,NCBI_ID,IPR_ID
+a6532.t1,Multicopper oxidase,Interproscan Protein family membership,NA,IPR045087
+a6533.t1,FAS1 (fasciclin),Interproscan Domain/Hu et al. 2019,NA,IPR050904
+a6534.t1,Polyketide synthase,Interproscan Protein family membership,NA,IPR050091
+a6535.t1,O-methyltransferase COMT-type with FAD domain,Interproscan Protein family membership,NA,IPR016461
+a6536.t1,MFS transporter,Interproscan Protein family membership,NA,IPR011701
+a6537.t1,O-methyltransferase COMT-type,Interproscan Protein family membership,NA,IPR016461
+a6538.t1,Oleate-activated transcription factor 3,Interproscan Protein family membership,NA,IPR050675
+a6539.t1,FAD-linked oxidoreductase,Interproscan Protein family membership,NA,IPR050416
+ctb10,Dehydratase,NCBI,XP_023458822.1,IPR002347
+ctb4,MFS transporter,NCBI,XP_023460063.1,IPR011701
+ctb7,Monoxygenase,NCBI,XP_023460060.1,IPR051704
+ctb9,Hydroxylase/desaturase,NCBI,XP_023458823.1,IPR044053
+elcH,FAD-dependent monoxygenase (hydroxylase),Interproscan Protein family membership,XP_001798910.1,IPR051104
+hyp12,Short-chain dehydrogenase/reductase,Interproscan Protein family membership,AIW00669.1,IPR002347
+other,Non-homologous genes,NA,NA,NA

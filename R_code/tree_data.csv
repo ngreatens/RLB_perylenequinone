@@ -1,0 +1,15 @@
+﻿ID,Assembly_Accession,Genus,Species,Phaeo_label,nonitalic,Cluster_coords,Prot_ID
+Bathelium_mastoideum,GCA_026023875.1,'Bathelium','mastoideum','','',JAPETJ010000001.1:3132098-3168500,KAI9668116.1
+Cercospora_beticola_01,GCF_033473495.1,'Cercospora','beticola','','',NC_088935.1:2246407-2289109,XP_023460065.1
+Cercospora_beticola_02,GCF_033473495.1,'Cercospora','beticola','','',NC_088943.1:410498-431123,XP_023450000.1
+Colletotrichum_fioriniae,GCF_027942845.1,'Colletotrichum','fioriniae','','',NW_027076842.1:2707475-2745517,XP_065613940.1
+Coniothyrium_glycines,to_be_submitted,'Coniothyrium','glycines','','LW_SCC',scaff_46:93700:120242,g6534
+Corynespora_cassiicola,GCA_022059125.1,'Corynespora','cassiicola','','',JAEUWY010000015.1:1840271-1864240,g11066.t1
+Elsinoe_ampelina,GCA_005959805.1,'Elsinoe','ampelina','','',SMYM01000002.1:3113047-3146179,g2499.t1
+Fulvia_fulva,GCF_020509005.1,'Fulvia','fulva','','',NC_063019.1:3055177-3088121,XP_047765204.1
+Melanomma_pulvis-pyrius_CBS_10977,GCA_010093585.1,'Melanomma','pulvis-pyrius','','',MU001857.1:32631-57133,KAF2795492.1
+Paraphoma_chrysanthemicola,GCA_020744225.1,'Paraphoma','chrysanthemicola','','',JAGMWG010000001.1:342401-381979,KAH7084749.1
+Parastagonospora_nodorum_SN15,GCF_000146915.1,'Parastagonospora','nodorum','','',NW_001884561.1:275125-311307,XP_001798923.1
+Phaeosphaeriaceae_sp_PMI808,GCA_021365335.1,'','','Phaeosphaeriaceae sp. PMI808 KAH8730335.1','',JAJTIZ010000008.1:837092-863001,''
+Shiraia_sp_slf14,GCA_000498155.1,'Shiraia','','','sp. slf14',AXZN01000058.1:140003-178608,g9112.t1
+Viridothelium_virens,GCA_010094025.1,'Viridothelium','virens','','',ML991839.1:3156-40844,KAF2230550.1
