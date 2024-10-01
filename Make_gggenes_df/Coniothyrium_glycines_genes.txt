@@ -1,0 +1,8 @@
+Coniothyrium_glycines	93700	95640	0	g6532.t1	ID=g6532.t1;geneID=g6532
+Coniothyrium_glycines	96011	97021	1	g6533.t1	ID=g6533.t1;geneID=g6533
+Coniothyrium_glycines	97435	104264	0	g6534.t1	ID=g6534.t1;geneID=g6534
+Coniothyrium_glycines	104728	107684	1	g6535.t1	ID=g6535.t1;geneID=g6535
+Coniothyrium_glycines	109392	111380	0	g6536.t1	ID=g6536.t1;geneID=g6536
+Coniothyrium_glycines	111718	113019	1	g6537.t1	ID=g6537.t1;geneID=g6537
+Coniothyrium_glycines	114360	115664	1	g6538.t1	ID=g6538.t1;geneID=g6538
+Coniothyrium_glycines	118433	120242	0	g6539.t1	ID=g6539.t1;geneID=g6539
