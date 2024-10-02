@@ -2,7 +2,7 @@
 
 ```
 Presence of a gene cluster for a light-activated phytotoxin in the fungal
-Select Agent Coniothyrium glycines hints at possible virulence mechanism
+soybean pathogen Coniothyrium glycines hints at possible virulence mechanism
 
 by
 
